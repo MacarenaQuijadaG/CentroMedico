@@ -2,9 +2,10 @@
 
 ## Descripción
 
-El prestigioso centro médico dental de Ñuñoa, le ha encargado la tarea de obtener información estadística acerca de las consultas dentales que realizó durante el día de ayer. Para esto, se le entregará un listado de las consultas realizadas, 
-el que contiene una tabla con las siguientes columnas: hora de atención, médico especialista, nombre del paciente, Rut del paciente y previsión (Fonasa o Isapre).
-
+El centro médico dental de Ñuñoa se ha puesto en contacto una vez más con usted, para que desarrolle algunas modificaciones con respecto a sus consultas médicas y desplegar otra información que se le indicará más adelante. En esta ocasión, le piden hacer modificaciones a la página HTML que disponen, por lo que se le entrega el código de la página para que realice su trabajo. Dentro del código, se le señala donde tiene que realizar las modificaciones.
+Como regla, usted no puede eliminar ni modificar los datos que están en el interior de los arreglos y objetos de manera permanente. Todas las modificaciones solicitadas deben hacerse mediante el uso de funciones integradas en arreglos y objetos, como push(), shift(), split(), entre otras que estime conveniente.
+## Visuales 
+![2](https://github.com/MacarenaQuijadaG/CentroMedico/assets/50925916/cc8bbb7e-2063-4f11-9662-9b618fa21c38)
 
 
 ## Empezando 🚀
